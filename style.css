@@ -1,0 +1,295 @@
+
+#maindiv1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 40px;
+    gap: 760px;
+    
+    width: 1440px;
+    height: 40px;
+    
+    /* Black */
+    
+    background: #212121;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+#a1{
+    width: 105px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+display: flex;
+align-items: center;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+position: relative;
+right: 200px;
+top: 20px;
+}
+#a2{
+    width: 64px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    position: relative;
+right: 100px;
+top: 5px;
+}
+#a3{
+    width: 27px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    
+      color: #FFFFFF;
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    position: relative;
+    right: 30px;
+    bottom: 10px;
+    
+}
+#a4{
+    width: 43px;
+    height: 15px;
+    
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    position: relative;
+    left: 7px;
+    bottom: 25px;
+}
+#a5{
+    width: 67px;
+    height: 15px;
+ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    display: flex;
+    align-items: center;
+    
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    position: relative;
+    right: 75px;
+    top: 20px;
+}
+#a6{
+    width: 64px;
+    height: 15px;
+    
+    /* Caption/Regular */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* Style */
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    position: relative;
+    top: 5px;
+}
+#a7{
+    width: 64px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+ 
+    display: flex;
+    align-items: center;
+ 
+    color: #FFFFFF;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    position: relative;
+    bottom: 10px;
+    left: 68px;
+}
+#a8{
+    width: 64px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+     
+    color: #FFFFFF;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    position: relative;
+    bottom: 25px;
+    left: 130px;
+}
+.img1{
+    width: 35px;
+height: 35px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+position: relative;
+left: 95px;
+}
+.p1{
+    width: 108px;
+height: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+
+display: flex;
+align-items: center;
+
+color: #212121;
+
+flex: none;
+order: 1;
+flex-grow: 1;
+position: relative;
+left: 145px;
+bottom: 45px;
+}
+.img2{
+    position: absolute;
+left: 16.11%;
+right: 11.11%;
+top: 12.11%;
+bottom: 0%;
+
+}
+.p2{
+    width: 147px;
+height: 17px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+display: flex;
+align-items: center;
+
+color: #212121;
+
+flex: none;
+order: 0;
+flex-grow: 1;
+position: relative;
+left: 300px;
+bottom: 80px;
+}
+.input1{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+
+width: 548px;
+height: 38px;
+
+background: #FCFCFC;
+
+border: 1px solid #E2E2E2;
+border-radius: 6px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+position: relative;
+left: 480px;
+bottom: 120px;
+}
