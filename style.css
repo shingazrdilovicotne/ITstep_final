@@ -1,28 +1,27 @@
-
 #maindiv1{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 12px 40px;
-    gap: 760px;
-    
-    width: 1440px;
-    height: 40px;
-    
-    /* Black */
-    
-    background: #212121;
-    
-    /* Inside auto layout */
-    
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 40px;
+  gap: 760px;
+  
+  width: 1550px;
+  height: 40px;
+  
+  /* Black */
+  
+  background: #212121;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 
 }
 #a1{
-    width: 105px;
+  width: 105px;
 height: 15px;
 
 font-family: 'Inter';
@@ -42,254 +41,371 @@ right: 200px;
 top: 20px;
 }
 #a2{
-    width: 64px;
-    height: 15px;
+  width: 64px;
+  height: 15px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
 
-    display: flex;
-    align-items: center;
-    
-    color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF;
 
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    position: relative;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: relative;
 right: 100px;
 top: 5px;
 }
 #a3{
-    width: 27px;
-    height: 15px;
+  width: 27px;
+  height: 15px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
 
-    display: flex;
-    align-items: center;
-    
-      color: #FFFFFF;
-    
-    flex: none;
-    order: 2;
-    flex-grow: 0;
-    position: relative;
-    right: 30px;
-    bottom: 10px;
-    
+  display: flex;
+  align-items: center;
+  
+    color: #FFFFFF;
+  
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  position: relative;
+  right: 30px;
+  bottom: 10px;
+  
 }
 #a4{
-    width: 43px;
-    height: 15px;
-    
-   
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    display: flex;
-    align-items: center;
+  width: 43px;
+  height: 15px;
+  
+ 
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
 
-    color: #FFFFFF;
+  color: #FFFFFF;
 
-    flex: none;
-    order: 3;
-    flex-grow: 0;
-    position: relative;
-    left: 7px;
-    bottom: 25px;
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  position: relative;
+  left: 7px;
+  bottom: 25px;
 }
 #a5{
-    width: 67px;
-    height: 15px;
- 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
+  width: 67px;
+  height: 15px;
 
-    display: flex;
-    align-items: center;
-    
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
 
-    color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  
 
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    position: relative;
-    right: 75px;
-    top: 20px;
+  color: #FFFFFF;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  position: relative;
+  right: 75px;
+  top: 20px;
 }
 #a6{
-    width: 64px;
-    height: 15px;
-    
-    /* Caption/Regular */
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    /* identical to box height */
-    
-    display: flex;
-    align-items: center;
-    
-    /* Style */
-    
-    color: #FFFFFF;
-    
-    
-    /* Inside auto layout */
-    
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    position: relative;
-    top: 5px;
+  width: 64px;
+  height: 15px;
+  
+  /* Caption/Regular */
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  
+  /* Style */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: relative;
+  top: 5px;
 }
 #a7{
-    width: 64px;
-    height: 15px;
+  width: 64px;
+  height: 15px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
- 
-    display: flex;
-    align-items: center;
- 
-    color: #FFFFFF;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
 
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    position: relative;
-    bottom: 10px;
-    left: 68px;
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: relative;
+  bottom: 10px;
+  left: 68px;
 }
 #a8{
-    width: 64px;
-    height: 15px;
+  width: 64px;
+  height: 15px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    display: flex;
-    align-items: center;
-     
-    color: #FFFFFF;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+   
+  color: #FFFFFF;
 
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    position: relative;
-    bottom: 25px;
-    left: 130px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: relative;
+  bottom: 25px;
+  left: 130px;
 }
-.img1{
+
+#SS{
+    margin-left: 50px;
+    margin-top: 27px;
+}
+
+#png{
+    position:relative; bottom:45px;
+    margin-left: 10px;
+    height: 35px;
     width: 35px;
-height: 35px;
-
-flex: none;
-order: 0;
-flex-grow: 0;
-position: relative;
-left: 95px;
+    left: 0px;
+    border-radius: 0px;
+    
 }
-.p1{
-    width: 108px;
-height: 22px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 140%;
-
-display: flex;
-align-items: center;
-
-color: #212121;
-
-flex: none;
-order: 1;
-flex-grow: 1;
-position: relative;
-left: 145px;
-bottom: 45px;
+.Indonesia{
+    position:relative; bottom:60px;
+    margin-left: 100px;
 }
-.img2{
+.nmc{
+    position:relative; bottom:40px;
+    margin-left:200px;
+
+}
+#png1{
+    position: relative; bottom:40px; right:100px
+}
+.mb-3{
+    position: relative; bottom:115px; left:400px;
+    height: 38px;
+width: 548px;
+border-radius: 6px;
+padding: 8px 16px 8px 16px;
+}
+#png2{
+    position:relative; bottom:145px; left:900px;
+}
+.mac{
+    position: relative; 
+    color: rgb(87, 7, 87)
+  }
+#purple{
+    position:relative; left:915px; bottom:140px;
+   
+}
+
+#png3{
+    position:relative; left:920px;bottom:140px;
+}
+#png4{
+    position:relative; left:930px; bottom:140px;
+}
+#png5{
+    position:relative; left:940px; bottom:140px;
+}
+#Popular{
+   position:relative; bottom:120px; padding-left:20px;
+}
+  
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .content {
+    display: none;
     position: absolute;
-left: 16.11%;
-right: 11.11%;
-top: 12.11%;
-bottom: 0%;
+    z-index: 1;
+  }
+  
+  .content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .mac:hover .content {
+    display: block;
+  }
+  
+.mac {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+
+.content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.content a:hover {
+  background-color: #f1f1f1;
+}
+
+.mac:hover .content {
+  display: block;
+}
+#show{
+    position:relative; bottom:190px; 
+    padding-left: 1300px;
+    
+}
+
+#imagepurple{
+  position:relative; left:30px; bottom:95px;
 
 }
-.p2{
-    width: 147px;
-height: 17px;
-
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 17px;
-
-display: flex;
-align-items: center;
-
-color: #212121;
-
-flex: none;
-order: 0;
-flex-grow: 1;
-position: relative;
-left: 300px;
-bottom: 80px;
+#imagepurplesecond{
+   position:relative; bottom:95px; left:80px;
 }
-.input1{
-    box-sizing: border-box;
+#imagepruplethird{
+    position:relative;  bottom:10px;
+    padding-left:20px; 
+}
+#Hide{
+  position:relative; bottom:150px; left:1300px;
+}
 
-/* Auto layout */
 
-display: flex;
+/* Dropdown Button */
+.dropbtn {
+  display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 8px 16px;
+gap: 4px;
 
-width: 548px;
+width: 116px;
 height: 38px;
 
-background: #FCFCFC;
+/* Active */
 
-border: 1px solid #E2E2E2;
-border-radius: 6px;
+background: #52057B;
+border-radius: 8px;
+
+/* Inside auto layout */
 
 flex: none;
-order: 0;
+order: 1;
 flex-grow: 0;
-
-position: relative;
-left: 480px;
-bottom: 120px;
-}
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #52057B;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .mac {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+  .registration{
+    float: right;
+    position: relative;
+    bottom: 125px;
+    right: 100px;
+  }
+ 

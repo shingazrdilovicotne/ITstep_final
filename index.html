@@ -4,35 +4,109 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>  
     <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 </head>
 <header>
-    <div id="maindiv1">
-    <nav id="nav1">
-        <a href="" id="a1">Open Sponsorship</a>
-        <a href="" id="a2">Call Center</a>
-        <a href="" id="a3">Help</a>
-        <a href="" id="a4">Tutorial</a>
-    </nav>
-    <nav id="nav2">
-        <a href="" id="a5">Be Partners</a>
-        <a href="" id="a6">Open Shop</a>
-        <a href="" id="a7">Dowload</a>
-        <a href="" id="a8">English</a>
-    </nav>
-</div>
-<img src="images/Ellipse 1.png" alt="" class="img1">
-<p class="p1"> SlabShop</p>
-<img src="images/Vector.png" alt="" class="img2">
-<p class="p2">Indonesia, Yogyakarta</p>
-                <div class="topnav">
-                        <input type="text" placeholder="Search in SlabShop" class="input1">
-                    </div>
+  <div id="maindiv1">
+  <nav id="nav1">
+      <a href="" id="a1">Open Sponsorship</a>
+      <a href="" id="a2">Call Center</a>
+      <a href="" id="a3">Help</a>
+      <a href="" id="a4">Tutorial</a>
+  </nav>
+  <nav id="nav2">
+      <a href="" id="a5">Be Partners</a>
+      <a href="" id="a6">Open Shop</a>
+      <a href="" id="a7">Dowload</a>
+      <a href="" id="a8">English</a>
+  </nav>
+
 </header>
 <body>
+    <h3 class="h31" id="SS">SlabShop</h2>
+    <img src="images/Ellipse 1.png" alt=""   id="png">
+    <div class="mac">
+        <button onclick="SecondFunction()" class="nmc btn">Country</button>
+        <div id="myDropdown" class="content">
+                      <a href="">Indonesia, Yogyakarta</a>
+                           <a href="#">Georgia</a>
+                      <a href="#">Italy</a>
+                      <a href="#">France</a>
+                        <a href="#">United Kingdom</a>
+                               <a href="#">U.S.A</a>
+                            <a href="#">Germany</a>
+                                  <a href="#">Australia</a>
+                                 <a href="#">Russia is sanctioned x</a>
+        </div>
+    </div>
+    <img src="images/Vector.png" alt="" id="png1">
+    <div class="mb-3" id="Searchbar">
+        <label for="exampleFormControlInput1" class="form-label"></label>
+        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Search in SlabShop">
+      </div>
+      <img src="images/Vector (1).png" alt="" id="png2">
+
+      
+
+      <div class="mac" id="purple">
+        <button onclick="showDropdown('dropdown1')" class="dropbtn">Category</button>
+        <div id="dropdown1" class="content">
+                       <a href="#">jer ar momifiqrebia</a>
+                          <a href="#">jer ar momifiqrebia</a>
+                                  <a href="#">jer ar momifiqrebia</a>
+                                  <a href="#">jer ar momifiqrebia</a>
+        </div>
+      </div>
+      
+                       <img src="images/Vector (2).png" alt="" id="png3">
+                         <img src="images/Vector (3).png" alt="" id="png4">
+                        <img src="images/Vector (4).png" alt="" id="png5">
+        <a href="index1.html" class="registration">Registration</a>
+
+  </div>
+</div>
+</div>
+
+ <div class="collapse show" id="collapseExample" >
+    <div id="Popular">
+        <hr>
+        Popular search : 
+                  <button class="btn">Fashion  </button> 
+                  <button class="btn">Shoes Man</button> 
+                       <button class="btn">Gadget</button> 
+                         <button class="btn">Computer</button> 
+                        <button class="btn">Laptop </button> 
+                            <button class="btn">Fresh Sale </button> 
+                                <button class="btn">Accessories </button>
+       
+       
+                                <hr>
+      </div>     
+ </div>
+ <div id="show">
+    <button  class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="true" aria-controls="collapseExample">
+        Hide
+       </button>
+    </div>
+<p>
     
+    
+
+
 </body>
+
+
+
+
+
+
+
+  
+
+<script src="main.js"></script>
 </html>
