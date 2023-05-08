@@ -4,11 +4,11 @@ function showDropdown() {
   
   window.onclick = function(event) {
     if (!event.target.matches('.dropbtn')) {
-      var dropdowns = document.getElementsByClassName("dropdown-content");
-      for (var m = 0; i < dropdowns.length; i++) {
-        var openDropdown = dropdowns[m];
-        if (openDropdown.classList.contains('show')) {
-          openDropdown.classList.remove('show');
+      var mac = document.getElementsByClassName("dropdown-content");
+      for (var m = 0; i < mac.length; i++) {
+        var open = mac[m];
+        if (open.classList.contains('show')) {
+          open.classList.remove('show');
         }
       }
     }
@@ -23,12 +23,12 @@ function showDropdown() {
 
   window.onclick = function(event) {
     if (!event.target.matches('.dropbtl')) {
-      var dropdowns = document.getElementsByClassName("dropdown-content");
+      var mac = document.getElementsByClassName("dropdown-content");
       var i;
-      for (i = 0; i < dropdowns.length; i++) {
-        var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains('show')) {
-          openDropdown.classList.remove('');
+      for (i = 0; i < mac.length; i++) {
+        var open = mac[i];
+        if (open.classList.contains('show')) {
+          open.classList.remove('');
         }
       }
     }
@@ -50,3 +50,4 @@ window.addEventListener('click', function(event) {
     Content.classList.remove('show');
   }
 });
+
