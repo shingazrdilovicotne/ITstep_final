@@ -39,6 +39,7 @@ flex-grow: 0;
 position: relative;
 right: 200px;
 top: 20px;
+
 }
 #a2{
   width: 64px;
@@ -835,3 +836,542 @@ left: 1000px
     bottom: 553px;
     left: 1075px
   }
+  .helpp{
+    width: 42px;
+height: 22px;
+
+/* Body/Regular */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+position: relative;
+left: 1420px;
+bottom: 430px;
+  }
+  .png8{
+    position: relative;
+
+    left: 1399px;
+bottom: 455px;
+  }
+  .choice1{
+    width: 1360px;
+height: 39px;
+
+/* Heading/Heading/h3 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 150%;
+/* identical to box height, or 39px */
+
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+left: 70px;
+bottom: 300px;
+  }
+  .maindivofimg{
+    margin: 0 20px;
+  }
+ 
+  .img2{
+    position: relative;
+    bottom: 300px;
+    left: 50px;
+  }
+  .img3{
+    position: relative;
+    bottom: 300px;
+    left: 100px;
+  }
+  .img4{
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+  }
+  .img5{
+    position: relative;
+    bottom: 300px;
+    left: 200px;
+  }
+  .img6{
+    position: relative;
+    bottom: 300px;
+    left: 250px;
+  }
+  .img7{
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+  }
+  .img8{
+    position: relative;
+    bottom: 300px;
+    left: 350px;
+  }
+  .img9{
+    position: relative;
+    bottom: 300px;
+    left: 400px;
+  }
+  .img10{
+    position: relative;
+    bottom: 300px;
+    left: 450px;
+  }
+  .img11{
+    position: relative;
+    bottom: 300px;
+    left: 500px;
+  }
+  .aa{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+bottom: 300px;
+left: 50px;
+  }
+  .aa1{
+    width: 80px;
+height: 44px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 320px;
+    left: 210px;
+  }
+  .aa2{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 350px;
+  }
+  .aa3{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 415px;
+  }
+  .aa4{
+    width: 40px;
+height: 102px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 450px;
+  }
+  .aa5{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 470px;
+  }
+  .aa6{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 505px;
+  }
+  .aa7{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 580px;
+  }
+  .aa8{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 650px;
+  }
+  .aa9{
+    width: 80px;
+height: 42px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+position: relative;
+    bottom: 365px;
+    left: 705px;
+  }
+  .sale{
+    width: 1130px;
+height: 39px;
+
+/* Heading/Heading/h3 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 150%;
+/* identical to box height, or 39px */
+
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+position: relative;
+bottom: 260px;
+left: 50px;
+  }
+  .card{
+    width: 200px;
+    margin-top: 50px;
+    box-shadow: 8px 5px 5px black;
+    position: relative;
+    left: 80px;
+    bottom: 250px;
+}
+.card img{
+    width: 200px;
+}
+.conteiner{
+    text-align: center;
+}
+
+.card1{
+  width: 200px;
+  margin-top: 50px;
+  box-shadow: 8px 5px 5px black;
+  position: relative;
+  left: 380px;
+  bottom: 540px;
+}
+.card1 img{
+  width: 200px;
+}
+.conteiner1{
+  text-align: center;
+}
+
+.card2{
+  width: 200px;
+  margin-top: 50px;
+  box-shadow: 8px 5px 5px black;
+  position: relative;
+  left: 680px;
+  bottom: 820px;
+}
+.card2 img{
+  width: 200px;
+}
+.conteiner2{
+  text-align: center;
+}
+
+.card3{
+  width: 200px;
+  margin-top: 50px;
+  box-shadow: 8px 5px 5px black;
+  position: relative;
+  left: 980px;
+  bottom: 1105px;
+}
+.card3 img{
+  width: 200px;
+}
+.conteiner3{
+  text-align: center;
+}
+
+.card4{
+  width: 200px;
+  margin-top: 50px;
+  box-shadow: 8px 5px 5px black;
+  position: relative;
+  left: 1280px;
+  bottom: 1388px;
+  
+}
+.card4 img{
+  width: 200px;
+}
+.conteiner4{
+  text-align: center;
+}
