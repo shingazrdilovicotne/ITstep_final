@@ -1375,3 +1375,200 @@ left: 50px;
 .conteiner4{
   text-align: center;
 }
+.now{
+  width: 267px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+position: absolute;
+top: 1900px;
+left: 100px;
+}
+.features1{
+  width: 93px;
+height: 17px;
+
+/* Body/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #52057B;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.features{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 109px;
+height: 29px;
+
+background: rgba(82, 5, 123, 0.1);
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+position: absolute;
+top: 1905px;
+left: 350px;
+}
+.product{
+  width: 166px;
+height: 22px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+
+
+/* Style */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 1;
+
+position: relative;
+left: 60px;
+bottom: 110px;
+}
+.fire{
+  width: 15px;
+height: 22px;
+
+/* Style */
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.maindivv1{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 11px;
+gap: 8px;
+
+width: 37px;
+height: 38px;
+
+background: rgba(255, 255, 255, 0.25);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.maindivv{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px 24px;
+  gap: 24px;
+  
+  width: 263px;
+  height: 111px;
+  
+  background: linear-gradient(90deg, #BF5AE0 0%, #A811DA 100%);
+  border-radius: 8px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  
+  position: absolute;
+  top: 2005px;
+  left: 100px;
+
+}
+.pp1{
+  width: 149px;
+height: 17px;
+
+/* Body/Regular */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Style */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+}

@@ -13,7 +13,7 @@ btn.onclick = function(){
 }
 btn2.onclick = function(){
     title.innerHTML = "Sign Up"
-    btn2.classList.remove("disable")
-    btn.classList.add("disable")
+    btn.classList.remove("disable")
+    btn2.classList.add("disable")
 
 }
