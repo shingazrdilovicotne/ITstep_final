@@ -1572,3 +1572,480 @@ flex: none;
 order: 0;
 flex-grow: 1;
 }
+
+
+
+/*saddsadsa*/
+
+
+
+.maindivv11{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 11px;
+  gap: 8px;
+  
+  width: 37px;
+  height: 38px;
+  
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.maindivv111{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 24px;
+gap: 24px;
+
+width: 263px;
+height: 111px;
+
+background: linear-gradient(90deg, #06BEB6 0%, #48B1BF 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+position: absolute;
+  top: 2005px;
+  left: 380px;
+
+}
+.pp11{
+  width: 149px;
+  height: 17px;
+  
+  /* Body/Regular */
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  
+  /* Style */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.fire1{
+  width: 20px;
+  height: 20px;
+  
+  /* Style */
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.product1{
+  width: 166px;
+height: 22px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+
+
+/* Style */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 1;
+
+position: relative;
+left: 60px;
+bottom: 110px;
+}
+
+
+
+
+
+/*sad8*/
+
+.maindivv2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 11px;
+  gap: 8px;
+  
+  width: 37px;
+  height: 38px;
+  
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.maindivvv2{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px 24px;
+  gap: 24px;
+  
+  width: 263px;
+  height: 111px;
+  
+  background: linear-gradient(90deg, #F85032 0%, #E73827 100%);
+  border-radius: 8px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+
+  position: absolute;
+  top: 2005px;
+  left: 660px;
+
+}
+
+  
+
+.fire2{
+  width: 20px;
+  height: 21px;
+  
+  /* Style */
+
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.product2{
+  width: 166px;
+  height: 22px;
+  
+  /* Paragraf/Medium */
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 22px */
+  
+  display: flex;
+  align-items: center;
+  
+  /* Style */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+  position: absolute;
+  top: 2020px;
+  left: 730px;
+
+}
+
+
+
+
+
+/* ccccc */
+
+.maindivv3{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 11px;
+  gap: 8px;
+  
+  width: 37px;
+  height: 38px;
+  
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.maindivvv3{
+ 
+  /* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 24px;
+gap: 24px;
+
+width: 251px;
+height: 111px;
+
+background: linear-gradient(90deg, #FE8C00 0%, #F83600 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+
+  position: absolute;
+  top: 2005px;
+  left: 940px;
+
+}
+.pp3{
+  width: 135px;
+  height: 17px;
+  
+  /* Body/Regular */
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  
+  /* Style */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+  
+  position: absolute;
+  top: 2080px;
+  left: 970px;
+  
+}
+.fire3{
+  width: 20px;
+  height: 19px;
+  
+  /* Style */
+  
+
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.product3{
+  width: 154px;
+  height: 22px;
+  
+  /* Paragraf/Medium */
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 22px */
+  
+  display: flex;
+  align-items: center;
+  
+  /* Style */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+  position: absolute;
+  top: 2018px;
+  left: 1000px;
+
+}
+
+
+
+/* cccc */
+
+.maindivv4{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 11px;
+  gap: 8px;
+  
+  width: 37px;
+  height: 38px;
+  
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.maindivvv4{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 24px;
+gap: 24px;
+
+width: 263px;
+height: 111px;
+
+background: linear-gradient(90deg, #F857A6 0%, #FF5858 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+
+  position: absolute;
+  top: 2005px;
+  left: 1220px;
+
+}
+.pp4{
+  width: 157px;
+height: 15px;
+
+/* Caption/Regular */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Style */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+position: absolute;
+top: 2080px;
+left: 1240px;
+  
+}
+.fire2{
+  width: 22px;
+  height: 20px;
+  
+  /* Style */
+  
+  background: #FFFFFF;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.product4{
+  width: 166px;
+height: 22px;
+
+/* Paragraf/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+
+/* Style */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 1;
+
+  position: absolute;
+  top: 2020px;
+  left: 1280px;
+
+}
