@@ -17,3 +17,7 @@ btn2.onclick = function(){
     btn2.classList.add("disable")
 
 }
+
+
+
+

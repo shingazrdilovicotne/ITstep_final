@@ -97,3 +97,13 @@ form p a{
     width: 350px;
     float: right;
 }
+#btn {
+    background-color: #ff4a22;
+    color: #fff;
+    border: none;
+    padding: 1em;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
