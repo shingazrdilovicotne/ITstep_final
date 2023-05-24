@@ -39,7 +39,10 @@ const dropdownBtn = document.querySelector('.dropdown-btn');
 const Content = document.querySelector('.dropdown-content');
 
 // Add a click event listener to the button
-
+dropdownBtn.addEventListener('click', function() {
+  // Toggle the "show" class on the dropdown content element
+  Content.classList.toggle('show');
+});
 
 // Close the dropdown menu if the user clicks outside of it
 window.addEventListener('click', function(event) {

@@ -1,0 +1,117 @@
+body{
+    background-color: midnightblue;
+}
+.input1{
+    width: 200px;
+    height: 30px;
+position: absolute;
+top: 200px;
+left: 400px;
+background-color: black;
+color: white;
+}
+.input2{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+color: white;
+}
+.input3{
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 30px
+    
+}
+.input4{
+    background-color: black;
+    color: white;
+    width: 50px;
+    height: 30px
+ 
+}
+.maindiv{
+    position: absolute;
+    top: 200px;
+left: 700px;
+}
+.p1{
+    position: absolute;
+    top: 160px;
+left: 400px; 
+color: white;
+}
+.p2{
+    position: absolute;
+    top: 160px;
+left: 700px;
+color: white;
+} 
+.p3{
+    position: absolute;
+    top: 160px;
+left: 850px;
+color: white;
+}
+.maindiv1{
+
+   position: relative;
+   top: 50px;
+   right: 295px;
+
+   
+}
+.c{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.cc{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.name{
+    position: relative;
+    bottom: 80px;
+    color: white;
+}
+.name1{
+    position: relative;
+    bottom: 115px;
+    color: white;
+    left: 180px;
+}
+.div1{
+    position: absolute;
+    top: 233px;
+left: 800px;
+color: white;
+}
+.text{
+  background-color: black;
+  height: 30px;
+  color: white;
+}
+.phone{
+    position: absolute;
+    top: 350px;
+left: 405px;
+color: white;
+}
+.text1{
+    background-color: black;
+    height: 30px;
+    color: white;
+}
+.btn{
+    width: 100px;
+    background-color: green;
+    border: 0;
+    position: absolute;
+    top: 400px;
+    left: 700px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+}
