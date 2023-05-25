@@ -41,10 +41,5 @@ const Content = document.querySelector('.dropdown-content');
 // Add a click event listener to the button
 
 
-// Close the dropdown menu if the user clicks outside of it
-window.addEventListener('click', function(event) {
-  if (!event.target.matches('.dropdown-btn')) {
-    Content.classList.remove('show');
-  }
-});
+
 
