@@ -5335,3 +5335,14 @@ img{
   }
  }
 
+ .hidepng{
+  position: relative;
+  left: 160px;
+  bottom: 30px;
+  width: 100px;
+ }
+
+.registration{
+  position: relative;
+  bottom: 190px;
+}
