@@ -2078,7 +2078,7 @@ order: 0;
 align-self: stretch;
 flex-grow: 0;
 position: relative;
-bottom: 1000px;
+bottom: 970px;
 left: 110px;
 }
 .card5{
@@ -3970,7 +3970,7 @@ order: 0;
 flex-grow: 0;
 
 position: relative;
-top: 960px;
+top: 1050px;
 right: 1100px;
 }
 .seconddiv{
@@ -4078,7 +4078,7 @@ order: 0;
 flex-grow: 0;
 
 position: relative;
-top: 575px;
+top: 665px;
 right: 830px;
 }
 .seconddiv1{
@@ -4184,7 +4184,7 @@ order: 0;
 flex-grow: 0;
 
 position: relative;
-top: 193px;
+top: 283px;
 right: 560px;
 }
 .seconddiv11{
@@ -4291,7 +4291,7 @@ order: 0;
 flex-grow: 0;
 
 position: relative;
-bottom: 190px;
+bottom: 100px;
 right: 290px;
 }
 .seconddiv111{
@@ -4398,7 +4398,7 @@ order: 0;
 flex-grow: 0;
 
 position: relative;
-bottom: 573px;
+bottom: 483px;
 right: 20px;
 }
 .seconddiv1111{
@@ -4531,7 +4531,7 @@ ul{
    position: relative;
    padding: 0 25px;
 
-   bottom: 150px;
+   bottom: 70px;
    right: 1200px;
 }
 .footer-col h4{
@@ -5002,3 +5002,336 @@ position: relative;
 right: 1100px;
 top: 550px;
 }
+@media screen and (max-width: 350px){
+  .maindivofimg a{
+  display: none;
+  }
+header{
+  display: none;
+}
+.mac{
+  display: none;
+}
+
+#Popular{
+  display: none;
+}
+.productss{
+  display: none;
+}
+footer{
+  display: none;
+}
+.ss2{
+  display: none;
+}
+.ss3{
+  display: none;
+}
+.ss4{
+  display: none;
+}
+.ss5{
+  display: none;
+}
+.ss6{
+  display: none;
+}
+.pay11{
+  display: none;
+}
+.payy{
+  display: none;
+}
+.mindn{
+  display: none;
+}
+.png8{
+  display: none;
+}
+.none1{
+  display: none;
+}
+.nav6{
+  display: none;
+}
+img{
+  grid-template-columns: auto auto;
+}
+.png5{
+  display: none;
+}
+.png6{
+  display: none;
+}
+.png7{
+  display: none;
+}
+.banner{
+  display: none;
+}
+#Popular{
+  display: none;
+}
+.maindivofpngs{
+  display: none;
+}
+.sale{
+  display: none;
+}
+.choice1{
+  display: none;
+}
+.today{
+  display: none;
+}
+.now{
+  display: none;
+}
+.registration{
+  display: none;
+}
+.form-control{
+  position: relative;
+  right: 150px;
+}
+img{
+  max-width: 100%;
+  object-fit: contain;
+
+}
+.hidepng{
+  display: none;
+}
+.close{
+  display: none;
+}
+}
+
+@media (max-width: 600px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .maindivofimg a{
+    display: none;
+    }
+  header{
+    display: none;
+  }
+  .mac{
+    display: none;
+  }
+  
+  #Popular{
+    display: none;
+  }
+  .productss{
+    display: none;
+  }
+  footer{
+    display: none;
+  }
+  .ss2{
+    display: none;
+  }
+  .ss3{
+    display: none;
+  }
+  .ss4{
+    display: none;
+  }
+  .ss5{
+    display: none;
+  }
+  .ss6{
+    display: none;
+  }
+  .pay11{
+    display: none;
+  }
+  .payy{
+    display: none;
+  }
+  .mindn{
+    display: none;
+  }
+  .png8{
+    display: none;
+  }
+  .none1{
+    display: none;
+  }
+  .nav6{
+    display: none;
+  }
+  img{
+    grid-template-columns: auto auto;
+  }
+  .png5{
+    display: none;
+  }
+  .png6{
+    display: none;
+  }
+  .png7{
+    display: none;
+  }
+  .banner{
+    display: none;
+  }
+  #Popular{
+    display: none;
+  }
+  .maindivofpngs{
+    display: none;
+  }
+  .sale{
+    display: none;
+  }
+  .choice1{
+    display: none;
+  }
+  .today{
+    display: none;
+  }
+  .now{
+    display: none;
+  }
+  .registration{
+    display: none;
+  }
+  .form-control{
+    position: relative;
+    right: 150px;
+  }
+  img{
+    max-width: 100%;
+    object-fit: contain;
+
+  }
+  .hidepng{
+    display: none;
+  }
+  .close{
+    display: none;
+  }
+ }
+ @media (max-width: 900px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .maindivofimg a{
+    display: none;
+    }
+  header{
+    display: none;
+  }
+  .mac{
+    display: none;
+  }
+  
+  #Popular{
+    display: none;
+  }
+  .productss{
+    display: none;
+  }
+  footer{
+    display: none;
+  }
+  .ss2{
+    display: none;
+  }
+  .ss3{
+    display: none;
+  }
+  .ss4{
+    display: none;
+  }
+  .ss5{
+    display: none;
+  }
+  .ss6{
+    display: none;
+  }
+  .pay11{
+    display: none;
+  }
+  .payy{
+    display: none;
+  }
+  .mindn{
+    display: none;
+  }
+  .png8{
+    display: none;
+  }
+  .none1{
+    display: none;
+  }
+  .nav6{
+    display: none;
+  }
+  img{
+    grid-template-columns: auto auto;
+  }
+  .png5{
+    display: none;
+  }
+  .png6{
+    display: none;
+  }
+  .png7{
+    display: none;
+  }
+  .banner{
+    display: none;
+  }
+  #Popular{
+    display: none;
+  }
+  .maindivofpngs{
+    display: none;
+  }
+  .sale{
+    display: none;
+  }
+  .choice1{
+    display: none;
+  }
+  .today{
+    display: none;
+  }
+  .now{
+    display: none;
+  }
+  .registration{
+    display: none;
+  }
+  .form-control{
+    position: relative;
+    right: 150px;
+  }
+  img{
+    max-width: 100%;
+    object-fit: contain;
+
+  }
+  .hidepng{
+    display: none;
+  }
+  .close{
+    display: none;
+  }
+  .close1{
+    position: relative;
+    bottom: 100px;
+  }
+  .close2{
+    position: relative;
+    bottom: 700px;
+  }
+ }
+
