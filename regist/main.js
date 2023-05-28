@@ -67,10 +67,10 @@ fetch('https://kketelauri-001-site1.gtempurl.com/api/user/adduser', {
         'Content-Type': 'application/json'
     },
     body: JSON.stringify({ 
-        "userName": "cotne",
+        "userName": "massa",
     "firstName": "cotne",
     "lastName": "shingazrdilovi",
-    "email": "cotne@gmail.com",
+    "email": "massa@gmail.com",
     "privateNumber": "12345673452",
     "password": "cotne1234",
     "active": true})
