@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+    background-size: cover;
+}
+.img1{
+    width: 600px;
+
+    border-radius: 40px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+.div1{
+    width: 530px;
+height: 39px;
+
+/* Heading/Heading/h3 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 150%;
+/* identical to box height, or 39px */
+
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: white;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+
+position: absolute;
+top: 150px;
+}
+
+.borderdiv{
+    
+    width: 200px;
+    height: 100px;
+   background-color: purple;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    color: white;
+    border-radius: 10px;
+}
+.borderdiv1{
+    
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    position: absolute;
+    top: 350px;
+    color: white;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+}
+.Purchase1{
+    display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  gap: 4px;
+  
+  width: 116px;
+  height: 38px;
+  
+  /* Active */
+  
+    
+  border-radius: 8px;
+  
+  
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: absolute;
+  top: 260px;
+  left: 240px;
+  
+  border-radius: 10px;
+  background-color: purple;
+  color: white;
+    }
+    .input1{
+        position: absolute;
+        top: 220px;
+        left: 240px;
+        background-color: purple;
+        border-radius: 10px;
+        color: white;
+    }
+    .input2{
+        position: absolute;
+        top: 220px;
+        left: 440px;
+        width: 50px;
+        background-color: purple;
+        border-radius: 10px;
+        color: white;
+    }
+    .form1{
+        position: absolute;
+        top: 640px;
+        left: 1000px;
+        color: white;
+       
+    }
+    .h11{
+        position: absolute;
+        top: 550px;
+        left: 950px;
+        color: white;
+    }
+    #SS{
+      position: relative;
+      top:7px;
+      left: 70px;
+      width: 100px;
+
+    }
+    
+    #png{
+        position:relative; 
+        bottom:45px;
+        margin-left: 10px;
+        height: 45px;
+        width: 45px;
+        left: 0px;
+        border-radius: 0px;
+        
+    }
+    

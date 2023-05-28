@@ -917,47 +917,47 @@ bottom: 300px;
   .img3{
     position: relative;
     bottom: 300px;
-    left: 100px;
+    left: 30px;
   }
   .img4{
     position: relative;
     bottom: 300px;
-    left: 150px;
+    left: 10px;
   }
   .img5{
     position: relative;
     bottom: 300px;
-    left: 200px;
+    left: 00px;
   }
   .img6{
     position: relative;
     bottom: 300px;
-    left: 250px;
+    left: 0px;
   }
   .img7{
     position: relative;
     bottom: 300px;
-    left: 300px;
+    left: 00px;
   }
   .img8{
     position: relative;
     bottom: 300px;
-    left: 350px;
+    left: 0px;
   }
   .img9{
     position: relative;
     bottom: 300px;
-    left: 400px;
+    left: 0px;
   }
   .img10{
     position: relative;
     bottom: 300px;
-    left: 450px;
+    left: 0px;
   }
   .img11{
     position: relative;
     bottom: 300px;
-    left: 500px;
+    left: 0px;
   }
   .aa{
     width: 80px;
@@ -988,7 +988,7 @@ flex-grow: 0;
 
 position: relative;
 bottom: 300px;
-left: 50px;
+left: 70px;
   }
   .aa1{
     width: 80px;
@@ -1020,8 +1020,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 320px;
-    left: 210px;
+    bottom: 300px;
+    left: 40px;
   }
   .aa2{
     width: 80px;
@@ -1051,8 +1051,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 350px;
+    bottom: 300px;
+    left: 15px;
   }
   .aa3{
     width: 80px;
@@ -1082,11 +1082,11 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 415px;
+    bottom: 300px;
+    left: 5px;
   }
   .aa4{
-    width: 40px;
+    width: 70px;
 height: 102px;
 
 /* Paragraf/Medium */
@@ -1113,8 +1113,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 450px;
+    bottom: 300px;
+    left: 0px;
   }
   .aa5{
     width: 80px;
@@ -1144,8 +1144,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 470px;
+    bottom: 300px;
+    left: 5px;
   }
   .aa6{
     width: 80px;
@@ -1175,8 +1175,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 505px;
+    bottom: 300px;
+    left: 0px;
   }
   .aa7{
     width: 80px;
@@ -1206,8 +1206,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 580px;
+    bottom: 300px;
+    right: 5px;
   }
   .aa8{
     width: 80px;
@@ -1237,8 +1237,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 650px;
+    bottom: 300px;
+    right: 10px;
   }
   .aa9{
     width: 80px;
@@ -1268,8 +1268,8 @@ align-self: stretch;
 flex-grow: 0;
 
 position: relative;
-    bottom: 365px;
-    left: 705px;
+    bottom: 300px;
+    right: 20px;
   }
   .sale{
     width: 1130px;
@@ -5002,347 +5002,51 @@ position: relative;
 right: 1100px;
 top: 550px;
 }
-@media screen and (max-width: 350px){
-  .maindivofimg a{
-  display: none;
-  }
-header{
-  display: none;
-}
-.mac{
-  display: none;
-}
-
-#Popular{
-  display: none;
-}
-.productss{
-  display: none;
-}
-footer{
-  display: none;
-}
-.ss2{
-  display: none;
-}
-.ss3{
-  display: none;
-}
-.ss4{
-  display: none;
-}
-.ss5{
-  display: none;
-}
-.ss6{
-  display: none;
-}
-.pay11{
-  display: none;
-}
-.payy{
-  display: none;
-}
-.mindn{
-  display: none;
-}
-.png8{
-  display: none;
-}
-.none1{
-  display: none;
-}
-.nav6{
-  display: none;
-}
-img{
-  grid-template-columns: auto auto;
-}
-.png5{
-  display: none;
-}
-.png6{
-  display: none;
-}
-.png7{
-  display: none;
-}
-.banner{
-  display: none;
-}
-#Popular{
-  display: none;
-}
-.maindivofpngs{
-  display: none;
-}
-.sale{
-  display: none;
-}
-.choice1{
-  display: none;
-}
-.today{
-  display: none;
-}
-.now{
-  display: none;
-}
-.registration{
-  display: none;
-}
-.form-control{
-  position: relative;
-  right: 150px;
-}
-img{
-  max-width: 100%;
-  object-fit: contain;
-
-}
-.hidepng{
-  display: none;
-}
-.close{
-  display: none;
-}
-}
-
-@media (max-width: 600px) {
-  .header-inner {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .maindivofimg a{
-    display: none;
-    }
-  header{
-    display: none;
-  }
-  .mac{
-    display: none;
-  }
-  
-  #Popular{
-    display: none;
-  }
-  .productss{
-    display: none;
-  }
-  footer{
-    display: none;
-  }
-  .ss2{
-    display: none;
-  }
-  .ss3{
-    display: none;
-  }
-  .ss4{
-    display: none;
-  }
-  .ss5{
-    display: none;
-  }
-  .ss6{
-    display: none;
-  }
-  .pay11{
-    display: none;
-  }
-  .payy{
-    display: none;
-  }
-  .mindn{
-    display: none;
-  }
-  .png8{
-    display: none;
-  }
-  .none1{
-    display: none;
-  }
-  .nav6{
-    display: none;
-  }
-  img{
-    grid-template-columns: auto auto;
-  }
-  .png5{
-    display: none;
-  }
-  .png6{
-    display: none;
-  }
-  .png7{
-    display: none;
-  }
-  .banner{
-    display: none;
-  }
-  #Popular{
-    display: none;
-  }
-  .maindivofpngs{
-    display: none;
-  }
-  .sale{
-    display: none;
-  }
-  .choice1{
-    display: none;
-  }
-  .today{
-    display: none;
-  }
-  .now{
-    display: none;
-  }
-  .registration{
-    display: none;
-  }
-  .form-control{
-    position: relative;
-    right: 150px;
-  }
-  img{
-    max-width: 100%;
-    object-fit: contain;
-
-  }
-  .hidepng{
-    display: none;
-  }
-  .close{
-    display: none;
-  }
- }
- @media (max-width: 900px) {
-  .header-inner {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .maindivofimg a{
-    display: none;
-    }
-  header{
-    display: none;
-  }
-  .mac{
-    display: none;
-  }
-  
-  #Popular{
-    display: none;
-  }
-  .productss{
-    display: none;
-  }
-  footer{
-    display: none;
-  }
-  .ss2{
-    display: none;
-  }
-  .ss3{
-    display: none;
-  }
-  .ss4{
-    display: none;
-  }
-  .ss5{
-    display: none;
-  }
-  .ss6{
-    display: none;
-  }
-  .pay11{
-    display: none;
-  }
-  .payy{
-    display: none;
-  }
-  .mindn{
-    display: none;
-  }
-  .png8{
-    display: none;
-  }
-  .none1{
-    display: none;
-  }
-  .nav6{
-    display: none;
-  }
-  img{
-    grid-template-columns: auto auto;
-  }
-  .png5{
-    display: none;
-  }
-  .png6{
-    display: none;
-  }
-  .png7{
-    display: none;
-  }
-  .banner{
-    display: none;
-  }
-  #Popular{
-    display: none;
-  }
-  .maindivofpngs{
-    display: none;
-  }
-  .sale{
-    display: none;
-  }
-  .choice1{
-    display: none;
-  }
-  .today{
-    display: none;
-  }
-  .now{
-    display: none;
-  }
-  .registration{
-    display: none;
-  }
-  .form-control{
-    position: relative;
-    right: 150px;
-  }
-  img{
-    max-width: 100%;
-    object-fit: contain;
-
-  }
-  .hidepng{
-    display: none;
-  }
-  .close{
-    display: none;
-  }
-  .close1{
-    position: relative;
-    bottom: 100px;
-  }
-  .close2{
-    position: relative;
-    bottom: 700px;
-  }
- }
-
  .hidepng{
   position: relative;
   left: 160px;
   bottom: 30px;
   width: 100px;
  }
-
 .registration{
   position: relative;
   bottom: 190px;
+}
+@media (min-width: 992px) {
+  .maindivofimg {
+      display: flex;
+      justify-content: space-between;
+  }
+  .maindivofpngs {
+      display: flex;
+      justify-content: space-between;
+  }
+}
+
+/* Styles for medium screens */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .maindivofimg {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+  }
+  .maindivofpngs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+  }
+}
+
+/* Styles for small screens */
+@media (max-width: 767.98px) {
+  .maindivofimg {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  .maindivofpngs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
 }
