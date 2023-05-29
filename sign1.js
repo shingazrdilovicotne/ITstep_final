@@ -8,8 +8,8 @@ function login() {
   const password = passwordInput.value;
 
   const requestBody = {
-    email: email,
-    password: password
+    email: "cotne@gmail.com",
+    password: "cotne1234"
   };
 
 

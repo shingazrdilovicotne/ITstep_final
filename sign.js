@@ -6,6 +6,7 @@ const passInput = passField.querySelector(".password");
 const cPassField = form.querySelector(".confirm-password");
 const cPassInput = cPassField.querySelector(".cPassword");
 
+console.log("Sign up is sucsessfull")
 // Email ვალიდაცია
 function checkEmail() {
   const emailPattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
