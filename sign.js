@@ -10,26 +10,27 @@ const cPassInput = cPassField.querySelector(".cPassword");
 function checkEmail() {
   const emailPattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
   if (!emailInput.value.match(emailPattern)) {
-    console.log("Invalid email");
+ 
     return emailField.classList.add("invalid");
   }
   emailField.classList.remove("invalid");
+
 }
 
 // Password ვალიდაცია
 function createPass() {
   const passPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
   if (!passInput.value.match(passPattern)) {
-    console.log("Invalid password");
+    
     return passField.classList.add("invalid");
   }
   passField.classList.remove("invalid");
+
 }
 
 // passord დადასტურება
 function confirmPass() {
   if (passInput.value !== cPassInput.value || cPassInput.value === "") {
-    console.log("Passwords don't match");
     return cPassField.classList.add("invalid");
   }
   cPassField.classList.remove("invalid");
@@ -41,12 +42,13 @@ form.addEventListener("submit", (e) => {
   checkEmail();
   createPass();
   confirmPass();
-
+ 
   if (
     !emailField.classList.contains("invalid") &&
     !passField.classList.contains("invalid") &&
     !cPassField.classList.contains("invalid")
   ) {
+    
     console.log("Registration successful");
     // რეგისტრაციის ლისტი
     const registrationData = {
@@ -58,7 +60,7 @@ form.addEventListener("submit", (e) => {
       password: "cotne1234",
       active: true
     };
-
+    
     fetch('https://kketelauri-001-site1.gtempurl.com/api/user/adduser', {
       method: 'POST',
       headers: {
@@ -77,5 +79,6 @@ form.addEventListener("submit", (e) => {
 
       });
   } else {
-    console.log("Registration failed");
+    console.log("added succsesfull");
 }})
+

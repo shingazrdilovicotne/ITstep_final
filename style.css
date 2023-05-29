@@ -5035,6 +5035,11 @@ top: 550px;
       flex-wrap: wrap;
       justify-content: space-evenly;
   }
+  .maindivofprod {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
 }
 
 /* Styles for small screens */
@@ -5048,5 +5053,15 @@ top: 550px;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
+  }
+  .maindivofprod {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+}
+@media (max-width: 650px){
+  .maindivofimg1{
+    display: none;
   }
 }
