@@ -68,6 +68,7 @@ form.addEventListener("submit", (e) => {
       },
       body: JSON.stringify(registrationData)
     })
+    window.location.href = "registration.html"
       .then(response => response.json())
       .then(data => {
         // თუ ყველაფერი კარგად ჩაივლის მოხდება ეს

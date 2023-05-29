@@ -76,6 +76,12 @@ form .input-field {
 .create-password .error {
   align-items: flex-start;
 }
+.d1{
+position: relative;
+top: 10px;
+width: 200px;
+height: 10px;
+}
 .create-password .error-icon {
   margin-top: 4px;
 }
